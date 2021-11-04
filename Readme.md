@@ -5,6 +5,7 @@ This project is designed to experiment with JavaScript, html and CSS capabilitie
 1. BounceBall - We will be bouncing one ball inside a box and the ball changes color on hitting the boundary.  
 2. PacMan - PacMan moves from one edge of the page to another with the variation of 4 images.
 3. MapMarker - Real Time Bus Tracker. This project shows the bus stop with full screen control.
+4. EyeExercise - In this project, the eye ball moves with the mouse. 
 
 ## Installation: 
 Download the file and open it in a browser.
